@@ -2,7 +2,7 @@ import { Center, useGLTF } from "@react-three/drei"
 import { useTexture } from "@react-three/drei"
 
 export function World(props: any) {
-  const { nodes } = useGLTF("/lowpoly.glb")
+  const { nodes } = useGLTF("/lowpoly.glb") as any
 
   const bakedTexture = useTexture("/bakedTexture.jpg")
 

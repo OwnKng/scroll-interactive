@@ -2,6 +2,7 @@ import { useFrame } from "@react-three/fiber"
 import { useRef } from "react"
 import * as THREE from "three"
 import { useScroll } from "@react-three/drei"
+import Sprite from "./Sprite"
 
 const height = -0.8395688058435915
 
@@ -14,32 +15,31 @@ const points = [
   new THREE.Vector3(-1, height, -0.25),
   new THREE.Vector3(-2.25, height, -0.0),
   new THREE.Vector3(-4.25, height, 0.0),
-  new THREE.Vector3(-6, height, 0.15),
+  new THREE.Vector3(-5.55, height, 0.15),
 ]
 
 const curve = new THREE.CatmullRomCurve3(points, false, "catmullrom", 0)
 const curveDetail = new THREE.CatmullRomCurve3(
-  curve.getPoints(100),
+  curve.getSpacedPoints(100),
   false,
   "catmullrom",
   0
 )
 
-const calculateIdealOffset = (target: THREE.Mesh) =>
+const calculateIdealOffset = (target: THREE.Sprite | THREE.Mesh) =>
   new THREE.Vector3(2, 2, 2).add(target.position)
 
-const calculateIdealLookAt = (target: THREE.Mesh) => target.position
+const calculateIdealLookAt = (target: THREE.Sprite | THREE.Mesh) =>
+  target.position
 
 export default function Track() {
-  const mesh = useRef<THREE.Mesh>(null!)
-  const pos = useRef(0)
+  const mesh = useRef<THREE.Sprite>(null!)
   const cameraTarget = useRef(new THREE.Vector3(0, 0, 0))
   const scroll = useScroll()
 
   useFrame((state) => {
-    const t = scroll.offset
+    const t = scroll.offset || 0
     curveDetail.getPoint(t, mesh.current.position)
-    mesh.current.position.y += 0.5
 
     const { camera } = state
 
@@ -49,10 +49,5 @@ export default function Track() {
     camera.lookAt(cameraTarget.current)
   })
 
-  return (
-    <mesh ref={mesh}>
-      <icosahedronGeometry args={[0.5, 0]} />
-      <meshNormalMaterial />
-    </mesh>
-  )
+  return <Sprite ref={mesh} />
 }

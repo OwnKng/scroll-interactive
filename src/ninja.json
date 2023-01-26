@@ -1,0 +1,2454 @@
+{
+    "frames": {
+      "ninja #IdleSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleSouth 3.aseprite": {
+        "frame": { "x": 192, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleSouth 4.aseprite": {
+        "frame": { "x": 256, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleSouth 5.aseprite": {
+        "frame": { "x": 320, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleSouth 6.aseprite": {
+        "frame": { "x": 384, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleSouth 7.aseprite": {
+        "frame": { "x": 448, "y": 0, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 0.aseprite": {
+        "frame": { "x": 0, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 1.aseprite": {
+        "frame": { "x": 64, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 2.aseprite": {
+        "frame": { "x": 128, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 3.aseprite": {
+        "frame": { "x": 192, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 4.aseprite": {
+        "frame": { "x": 256, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 5.aseprite": {
+        "frame": { "x": 320, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 6.aseprite": {
+        "frame": { "x": 384, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleEast 7.aseprite": {
+        "frame": { "x": 448, "y": 64, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 3.aseprite": {
+        "frame": { "x": 192, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 4.aseprite": {
+        "frame": { "x": 256, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 5.aseprite": {
+        "frame": { "x": 320, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 6.aseprite": {
+        "frame": { "x": 384, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleNorth 7.aseprite": {
+        "frame": { "x": 448, "y": 128, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 0.aseprite": {
+        "frame": { "x": 0, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 1.aseprite": {
+        "frame": { "x": 64, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 2.aseprite": {
+        "frame": { "x": 128, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 3.aseprite": {
+        "frame": { "x": 192, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 4.aseprite": {
+        "frame": { "x": 256, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 5.aseprite": {
+        "frame": { "x": 320, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 6.aseprite": {
+        "frame": { "x": 384, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleWest 7.aseprite": {
+        "frame": { "x": 448, "y": 192, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 3.aseprite": {
+        "frame": { "x": 192, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 4.aseprite": {
+        "frame": { "x": 256, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 5.aseprite": {
+        "frame": { "x": 320, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 6.aseprite": {
+        "frame": { "x": 384, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkSouth 7.aseprite": {
+        "frame": { "x": 448, "y": 256, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 0.aseprite": {
+        "frame": { "x": 0, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 1.aseprite": {
+        "frame": { "x": 64, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 2.aseprite": {
+        "frame": { "x": 128, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 3.aseprite": {
+        "frame": { "x": 192, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 4.aseprite": {
+        "frame": { "x": 256, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 5.aseprite": {
+        "frame": { "x": 320, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 6.aseprite": {
+        "frame": { "x": 384, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkEast 7.aseprite": {
+        "frame": { "x": 448, "y": 320, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 3.aseprite": {
+        "frame": { "x": 192, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 4.aseprite": {
+        "frame": { "x": 256, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 5.aseprite": {
+        "frame": { "x": 320, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 6.aseprite": {
+        "frame": { "x": 384, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkNorth 7.aseprite": {
+        "frame": { "x": 448, "y": 384, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 0.aseprite": {
+        "frame": { "x": 0, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 1.aseprite": {
+        "frame": { "x": 64, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 2.aseprite": {
+        "frame": { "x": 128, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 3.aseprite": {
+        "frame": { "x": 192, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 4.aseprite": {
+        "frame": { "x": 256, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 5.aseprite": {
+        "frame": { "x": 320, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 6.aseprite": {
+        "frame": { "x": 384, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkWest 7.aseprite": {
+        "frame": { "x": 448, "y": 448, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 3.aseprite": {
+        "frame": { "x": 192, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 4.aseprite": {
+        "frame": { "x": 256, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 5.aseprite": {
+        "frame": { "x": 320, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 6.aseprite": {
+        "frame": { "x": 384, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunSouth 7.aseprite": {
+        "frame": { "x": 448, "y": 512, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 0.aseprite": {
+        "frame": { "x": 0, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 1.aseprite": {
+        "frame": { "x": 64, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 2.aseprite": {
+        "frame": { "x": 128, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 3.aseprite": {
+        "frame": { "x": 192, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 4.aseprite": {
+        "frame": { "x": 256, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 5.aseprite": {
+        "frame": { "x": 320, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 6.aseprite": {
+        "frame": { "x": 384, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunEast 7.aseprite": {
+        "frame": { "x": 448, "y": 576, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 3.aseprite": {
+        "frame": { "x": 192, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 4.aseprite": {
+        "frame": { "x": 256, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 5.aseprite": {
+        "frame": { "x": 320, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 6.aseprite": {
+        "frame": { "x": 384, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunNorth 7.aseprite": {
+        "frame": { "x": 448, "y": 640, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 0.aseprite": {
+        "frame": { "x": 0, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 1.aseprite": {
+        "frame": { "x": 64, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 2.aseprite": {
+        "frame": { "x": 128, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 3.aseprite": {
+        "frame": { "x": 192, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 4.aseprite": {
+        "frame": { "x": 256, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 5.aseprite": {
+        "frame": { "x": 320, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 6.aseprite": {
+        "frame": { "x": 384, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #RunWest 7.aseprite": {
+        "frame": { "x": 448, "y": 704, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackASouth 0.aseprite": {
+        "frame": { "x": 0, "y": 768, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackASouth 1.aseprite": {
+        "frame": { "x": 64, "y": 768, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackASouth 2.aseprite": {
+        "frame": { "x": 128, "y": 768, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackASouth 3.aseprite": {
+        "frame": { "x": 192, "y": 768, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackASouth 4.aseprite": {
+        "frame": { "x": 256, "y": 768, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackASouth 5.aseprite": {
+        "frame": { "x": 320, "y": 768, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackAEast 0.aseprite": {
+        "frame": { "x": 0, "y": 832, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackAEast 1.aseprite": {
+        "frame": { "x": 64, "y": 832, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackAEast 2.aseprite": {
+        "frame": { "x": 128, "y": 832, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackAEast 3.aseprite": {
+        "frame": { "x": 192, "y": 832, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackAEast 4.aseprite": {
+        "frame": { "x": 256, "y": 832, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackAEast 5.aseprite": {
+        "frame": { "x": 320, "y": 832, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackANorth 0.aseprite": {
+        "frame": { "x": 0, "y": 896, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackANorth 1.aseprite": {
+        "frame": { "x": 64, "y": 896, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackANorth 2.aseprite": {
+        "frame": { "x": 128, "y": 896, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackANorth 3.aseprite": {
+        "frame": { "x": 192, "y": 896, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackANorth 4.aseprite": {
+        "frame": { "x": 256, "y": 896, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackANorth 5.aseprite": {
+        "frame": { "x": 320, "y": 896, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackAWest 0.aseprite": {
+        "frame": { "x": 0, "y": 960, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackAWest 1.aseprite": {
+        "frame": { "x": 64, "y": 960, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackAWest 2.aseprite": {
+        "frame": { "x": 128, "y": 960, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackAWest 3.aseprite": {
+        "frame": { "x": 192, "y": 960, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackAWest 4.aseprite": {
+        "frame": { "x": 256, "y": 960, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackAWest 5.aseprite": {
+        "frame": { "x": 320, "y": 960, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackBSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 1024, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 1024, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 1024, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBSouth 3.aseprite": {
+        "frame": { "x": 192, "y": 1024, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBSouth 4.aseprite": {
+        "frame": { "x": 256, "y": 1024, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBSouth 5.aseprite": {
+        "frame": { "x": 320, "y": 1024, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackBEast 0.aseprite": {
+        "frame": { "x": 0, "y": 1088, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBEast 1.aseprite": {
+        "frame": { "x": 64, "y": 1088, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBEast 2.aseprite": {
+        "frame": { "x": 128, "y": 1088, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBEast 3.aseprite": {
+        "frame": { "x": 192, "y": 1088, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBEast 4.aseprite": {
+        "frame": { "x": 256, "y": 1088, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBEast 5.aseprite": {
+        "frame": { "x": 320, "y": 1088, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackBNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 1152, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 1152, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 1152, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBNorth 3.aseprite": {
+        "frame": { "x": 192, "y": 1152, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBNorth 4.aseprite": {
+        "frame": { "x": 256, "y": 1152, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBNorth 5.aseprite": {
+        "frame": { "x": 320, "y": 1152, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackBWest 0.aseprite": {
+        "frame": { "x": 0, "y": 1216, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBWest 1.aseprite": {
+        "frame": { "x": 64, "y": 1216, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBWest 2.aseprite": {
+        "frame": { "x": 128, "y": 1216, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackBWest 3.aseprite": {
+        "frame": { "x": 192, "y": 1216, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBWest 4.aseprite": {
+        "frame": { "x": 256, "y": 1216, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackBWest 5.aseprite": {
+        "frame": { "x": 320, "y": 1216, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackCSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCSouth 3.aseprite": {
+        "frame": { "x": 192, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCSouth 4.aseprite": {
+        "frame": { "x": 256, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCSouth 5.aseprite": {
+        "frame": { "x": 320, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCSouth 6.aseprite": {
+        "frame": { "x": 384, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCSouth 7.aseprite": {
+        "frame": { "x": 448, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackCSouth 8.aseprite": {
+        "frame": { "x": 512, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCSouth 9.aseprite": {
+        "frame": { "x": 576, "y": 1280, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackCEast 0.aseprite": {
+        "frame": { "x": 0, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCEast 1.aseprite": {
+        "frame": { "x": 64, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCEast 2.aseprite": {
+        "frame": { "x": 128, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCEast 3.aseprite": {
+        "frame": { "x": 192, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCEast 4.aseprite": {
+        "frame": { "x": 256, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCEast 5.aseprite": {
+        "frame": { "x": 320, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCEast 6.aseprite": {
+        "frame": { "x": 384, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCEast 7.aseprite": {
+        "frame": { "x": 448, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackCEast 8.aseprite": {
+        "frame": { "x": 512, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCEast 9.aseprite": {
+        "frame": { "x": 576, "y": 1344, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackCNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCNorth 3.aseprite": {
+        "frame": { "x": 192, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCNorth 4.aseprite": {
+        "frame": { "x": 256, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCNorth 5.aseprite": {
+        "frame": { "x": 320, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCNorth 6.aseprite": {
+        "frame": { "x": 384, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCNorth 7.aseprite": {
+        "frame": { "x": 448, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackCNorth 8.aseprite": {
+        "frame": { "x": 512, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCNorth 9.aseprite": {
+        "frame": { "x": 576, "y": 1408, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #AttackCWest 0.aseprite": {
+        "frame": { "x": 0, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCWest 1.aseprite": {
+        "frame": { "x": 64, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCWest 2.aseprite": {
+        "frame": { "x": 128, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCWest 3.aseprite": {
+        "frame": { "x": 192, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCWest 4.aseprite": {
+        "frame": { "x": 256, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCWest 5.aseprite": {
+        "frame": { "x": 320, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCWest 6.aseprite": {
+        "frame": { "x": 384, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #AttackCWest 7.aseprite": {
+        "frame": { "x": 448, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 23
+      },
+      "ninja #AttackCWest 8.aseprite": {
+        "frame": { "x": 512, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 46
+      },
+      "ninja #AttackCWest 9.aseprite": {
+        "frame": { "x": 576, "y": 1472, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 96
+      },
+      "ninja #HurtSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 1536, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 1536, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 1536, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtEast 0.aseprite": {
+        "frame": { "x": 0, "y": 1600, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtEast 1.aseprite": {
+        "frame": { "x": 64, "y": 1600, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtEast 2.aseprite": {
+        "frame": { "x": 128, "y": 1600, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 1664, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 1664, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 1664, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtWest 0.aseprite": {
+        "frame": { "x": 0, "y": 1728, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtWest 1.aseprite": {
+        "frame": { "x": 64, "y": 1728, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtWest 2.aseprite": {
+        "frame": { "x": 128, "y": 1728, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 1792, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 1792, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawEast 0.aseprite": {
+        "frame": { "x": 0, "y": 1856, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawEast 1.aseprite": {
+        "frame": { "x": 64, "y": 1856, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 1920, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 1920, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawWest 0.aseprite": {
+        "frame": { "x": 0, "y": 1984, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #DrawWest 1.aseprite": {
+        "frame": { "x": 64, "y": 1984, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 3.aseprite": {
+        "frame": { "x": 192, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 4.aseprite": {
+        "frame": { "x": 256, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 5.aseprite": {
+        "frame": { "x": 320, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 6.aseprite": {
+        "frame": { "x": 384, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnSouth 7.aseprite": {
+        "frame": { "x": 448, "y": 2048, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 0.aseprite": {
+        "frame": { "x": 0, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 1.aseprite": {
+        "frame": { "x": 64, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 2.aseprite": {
+        "frame": { "x": 128, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 3.aseprite": {
+        "frame": { "x": 192, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 4.aseprite": {
+        "frame": { "x": 256, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 5.aseprite": {
+        "frame": { "x": 320, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 6.aseprite": {
+        "frame": { "x": 384, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnEast 7.aseprite": {
+        "frame": { "x": 448, "y": 2112, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 3.aseprite": {
+        "frame": { "x": 192, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 4.aseprite": {
+        "frame": { "x": 256, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 5.aseprite": {
+        "frame": { "x": 320, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 6.aseprite": {
+        "frame": { "x": 384, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnNorth 7.aseprite": {
+        "frame": { "x": 448, "y": 2176, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 0.aseprite": {
+        "frame": { "x": 0, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 1.aseprite": {
+        "frame": { "x": 64, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 2.aseprite": {
+        "frame": { "x": 128, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 3.aseprite": {
+        "frame": { "x": 192, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 4.aseprite": {
+        "frame": { "x": 256, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 5.aseprite": {
+        "frame": { "x": 320, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 6.aseprite": {
+        "frame": { "x": 384, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #IdleDrawnWest 7.aseprite": {
+        "frame": { "x": 448, "y": 2240, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 3.aseprite": {
+        "frame": { "x": 192, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 4.aseprite": {
+        "frame": { "x": 256, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 5.aseprite": {
+        "frame": { "x": 320, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 6.aseprite": {
+        "frame": { "x": 384, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnSouth 7.aseprite": {
+        "frame": { "x": 448, "y": 2304, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 0.aseprite": {
+        "frame": { "x": 0, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 1.aseprite": {
+        "frame": { "x": 64, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 2.aseprite": {
+        "frame": { "x": 128, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 3.aseprite": {
+        "frame": { "x": 192, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 4.aseprite": {
+        "frame": { "x": 256, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 5.aseprite": {
+        "frame": { "x": 320, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 6.aseprite": {
+        "frame": { "x": 384, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnEast 7.aseprite": {
+        "frame": { "x": 448, "y": 2368, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 3.aseprite": {
+        "frame": { "x": 192, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 4.aseprite": {
+        "frame": { "x": 256, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 5.aseprite": {
+        "frame": { "x": 320, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 6.aseprite": {
+        "frame": { "x": 384, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnNorth 7.aseprite": {
+        "frame": { "x": 448, "y": 2432, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 0.aseprite": {
+        "frame": { "x": 0, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 1.aseprite": {
+        "frame": { "x": 64, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 2.aseprite": {
+        "frame": { "x": 128, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 3.aseprite": {
+        "frame": { "x": 192, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 4.aseprite": {
+        "frame": { "x": 256, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 5.aseprite": {
+        "frame": { "x": 320, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 6.aseprite": {
+        "frame": { "x": 384, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #WalkDrawnWest 7.aseprite": {
+        "frame": { "x": 448, "y": 2496, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 2560, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 2560, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnSouth 2.aseprite": {
+        "frame": { "x": 128, "y": 2560, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnEast 0.aseprite": {
+        "frame": { "x": 0, "y": 2624, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnEast 1.aseprite": {
+        "frame": { "x": 64, "y": 2624, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnEast 2.aseprite": {
+        "frame": { "x": 128, "y": 2624, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 2688, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 2688, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnNorth 2.aseprite": {
+        "frame": { "x": 128, "y": 2688, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnWest 0.aseprite": {
+        "frame": { "x": 0, "y": 2752, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnWest 1.aseprite": {
+        "frame": { "x": 64, "y": 2752, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #HurtDrawnWest 2.aseprite": {
+        "frame": { "x": 128, "y": 2752, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathSouth 0.aseprite": {
+        "frame": { "x": 0, "y": 2816, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathSouth 1.aseprite": {
+        "frame": { "x": 64, "y": 2816, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathEast 0.aseprite": {
+        "frame": { "x": 0, "y": 2880, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathEast 1.aseprite": {
+        "frame": { "x": 64, "y": 2880, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathNorth 0.aseprite": {
+        "frame": { "x": 0, "y": 2944, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathNorth 1.aseprite": {
+        "frame": { "x": 64, "y": 2944, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathWest 0.aseprite": {
+        "frame": { "x": 0, "y": 3008, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      },
+      "ninja #SheathWest 1.aseprite": {
+        "frame": { "x": 64, "y": 3008, "w": 64, "h": 64 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+        "sourceSize": { "w": 64, "h": 64 },
+        "duration": 69
+      }
+    },
+    "meta": {
+      "app": "https://www.aseprite.org/",
+      "version": "1.2.40-x64",
+      "image": "ninja.png",
+      "format": "I8",
+      "size": { "w": 640, "h": 3072 },
+      "scale": "1",
+      "frameTags": [
+        { "name": "IdleSouth", "from": 0, "to": 7, "direction": "forward" },
+        { "name": "IdleEast", "from": 8, "to": 15, "direction": "forward" },
+        { "name": "IdleNorth", "from": 16, "to": 23, "direction": "forward" },
+        { "name": "IdleWest", "from": 24, "to": 31, "direction": "forward" },
+        { "name": "WalkSouth", "from": 32, "to": 39, "direction": "forward" },
+        { "name": "WalkEast", "from": 40, "to": 47, "direction": "forward" },
+        { "name": "WalkNorth", "from": 48, "to": 55, "direction": "forward" },
+        { "name": "WalkWest", "from": 56, "to": 63, "direction": "forward" },
+        { "name": "RunSouth", "from": 64, "to": 71, "direction": "forward" },
+        { "name": "RunEast", "from": 72, "to": 79, "direction": "forward" },
+        { "name": "RunNorth", "from": 80, "to": 87, "direction": "forward" },
+        { "name": "RunWest", "from": 88, "to": 95, "direction": "forward" },
+        { "name": "AttackASouth", "from": 96, "to": 101, "direction": "forward" },
+        { "name": "AttackAEast", "from": 102, "to": 107, "direction": "forward" },
+        {
+          "name": "AttackANorth",
+          "from": 108,
+          "to": 113,
+          "direction": "forward"
+        },
+        { "name": "AttackAWest", "from": 114, "to": 119, "direction": "forward" },
+        {
+          "name": "AttackBSouth",
+          "from": 120,
+          "to": 125,
+          "direction": "forward"
+        },
+        { "name": "AttackBEast", "from": 126, "to": 131, "direction": "forward" },
+        {
+          "name": "AttackBNorth",
+          "from": 132,
+          "to": 137,
+          "direction": "forward"
+        },
+        { "name": "AttackBWest", "from": 138, "to": 143, "direction": "forward" },
+        {
+          "name": "AttackCSouth",
+          "from": 144,
+          "to": 153,
+          "direction": "forward"
+        },
+        { "name": "AttackCEast", "from": 154, "to": 163, "direction": "forward" },
+        {
+          "name": "AttackCNorth",
+          "from": 164,
+          "to": 173,
+          "direction": "forward"
+        },
+        { "name": "AttackCWest", "from": 174, "to": 183, "direction": "forward" },
+        { "name": "HurtSouth", "from": 184, "to": 186, "direction": "forward" },
+        { "name": "HurtEast", "from": 187, "to": 189, "direction": "forward" },
+        { "name": "HurtNorth", "from": 190, "to": 192, "direction": "forward" },
+        { "name": "HurtWest", "from": 193, "to": 195, "direction": "forward" },
+        { "name": "DrawSouth", "from": 196, "to": 197, "direction": "forward" },
+        { "name": "DrawEast", "from": 198, "to": 199, "direction": "forward" },
+        { "name": "DrawNorth", "from": 200, "to": 201, "direction": "forward" },
+        { "name": "DrawWest", "from": 202, "to": 203, "direction": "forward" },
+        {
+          "name": "IdleDrawnSouth",
+          "from": 204,
+          "to": 211,
+          "direction": "forward"
+        },
+        {
+          "name": "IdleDrawnEast",
+          "from": 212,
+          "to": 219,
+          "direction": "forward"
+        },
+        {
+          "name": "IdleDrawnNorth",
+          "from": 220,
+          "to": 227,
+          "direction": "forward"
+        },
+        {
+          "name": "IdleDrawnWest",
+          "from": 228,
+          "to": 235,
+          "direction": "forward"
+        },
+        {
+          "name": "WalkDrawnSouth",
+          "from": 236,
+          "to": 243,
+          "direction": "forward"
+        },
+        {
+          "name": "WalkDrawnEast",
+          "from": 244,
+          "to": 251,
+          "direction": "forward"
+        },
+        {
+          "name": "WalkDrawnNorth",
+          "from": 252,
+          "to": 259,
+          "direction": "forward"
+        },
+        {
+          "name": "WalkDrawnWest",
+          "from": 260,
+          "to": 267,
+          "direction": "forward"
+        },
+        {
+          "name": "HurtDrawnSouth",
+          "from": 268,
+          "to": 270,
+          "direction": "forward"
+        },
+        {
+          "name": "HurtDrawnEast",
+          "from": 271,
+          "to": 273,
+          "direction": "forward"
+        },
+        {
+          "name": "HurtDrawnNorth",
+          "from": 274,
+          "to": 276,
+          "direction": "forward"
+        },
+        {
+          "name": "HurtDrawnWest",
+          "from": 277,
+          "to": 279,
+          "direction": "forward"
+        },
+        { "name": "SheathSouth", "from": 280, "to": 281, "direction": "forward" },
+        { "name": "SheathEast", "from": 282, "to": 283, "direction": "forward" },
+        { "name": "SheathNorth", "from": 284, "to": 285, "direction": "forward" },
+        { "name": "SheathWest", "from": 286, "to": 287, "direction": "forward" }
+      ],
+      "layers": [{ "name": "Flattened", "opacity": 255, "blendMode": "normal" }],
+      "slices": []
+    }
+  }
+  
