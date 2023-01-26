@@ -59,7 +59,7 @@ const Sprite = forwardRef<THREE.Sprite, any>((props, ref) => {
 
   return (
     <group position={[0.001, 0.25, 0.015]}>
-      <mesh ref={ref} {...props} castShadow receiveShadow>
+      <mesh ref={ref} {...props} scale={[0.75, 0.75, 0.75]}>
         <planeGeometry />
         <meshBasicMaterial map={texture} transparent />
       </mesh>

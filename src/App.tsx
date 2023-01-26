@@ -6,7 +6,7 @@ import { World } from "./World"
 const App = () => (
   <div className='App'>
     <Canvas>
-      <ScrollControls pages={12}>
+      <ScrollControls pages={3}>
         <color args={["#303636"]} attach='background' />
         <Track />
         <World />

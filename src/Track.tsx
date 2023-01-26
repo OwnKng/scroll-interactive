@@ -27,7 +27,7 @@ const curveDetail = new THREE.CatmullRomCurve3(
 )
 
 const calculateIdealOffset = (target: THREE.Sprite | THREE.Mesh) =>
-  new THREE.Vector3(2, 2, 2).add(target.position)
+  new THREE.Vector3(1, 2, 2).add(target.position)
 
 const calculateIdealLookAt = (target: THREE.Sprite | THREE.Mesh) =>
   target.position
